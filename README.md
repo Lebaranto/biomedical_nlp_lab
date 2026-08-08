@@ -4,7 +4,7 @@ This repository contains three compact NLP projects built from notebooks and ref
 
 - `01_pubmed_sentence_classification`: PubMed RCT abstract sentence classification from Kaggle PubMed 200k RCT.
 - `02_citation_intent_classification`: SciCite citation intent classification from Kaggle Scicite (Classifying Citation Intents In Papers).
-- `03_toxhabits_ner_bilstm`: Spanish ToxHabits NER with CharCNN + BiLSTM + CRF from locally downloaded BRAT annotations.
+- `03_toxhabits_ner_bilstm`: Spanish ToxHabits NER with CharCNN + BiLSTM + CRF from ToxHabits Track of BioCreative V Challenge.
 
 The original notebooks are kept unchanged. Each project also includes a cleaner notebook copy for quick reading and a `src/` package for reusable code.
 
