@@ -2,14 +2,14 @@
 
 Spanish named entity recognition for toxic habit mentions: `Drug`, `Alcohol`, `Tobacco`, and `Cannabis`.
 
-The refactored pipeline covers:
+Developed pipeline covers:
 
 - BRAT `.ann/.txt` loading.
 - spaCy tokenization with medical abbreviation sentence-boundary fixes.
 - BIO tagging and sentence-preserving chunking.
 - Multi-label document-level train/validation/test split.
 - CharCNN + BiLSTM encoder with a linear-chain CRF.
-- Exact entity-level micro-F1, class F1, BIO validity, and error analysis utilities.
+- Exact entity-level micro-F1, class F1, BIO validity, and error analysis utilities with graphical interpretation.
 
 ## Data
 
