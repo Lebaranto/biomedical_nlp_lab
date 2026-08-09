@@ -1,12 +1,12 @@
 # Scientific NLP From Scratch
 
-This repository contains three compact NLP, non-Transformer projects built from notebooks and refactored into reusable Python modules:
+This repository contains three compact NLP, non-Transformer projects:
 
 - `01_pubmed_sentence_classification`: PubMed RCT abstract sentence classification from Kaggle PubMed 200k RCT.
 - `02_citation_intent_classification`: SciCite citation intent classification from Kaggle Scicite (Classifying Citation Intents In Papers).
 - `03_toxhabits_ner_bilstm`: Spanish ToxHabits NER with CharCNN + BiLSTM + CRF from ToxHabits Track of BioCreative IX Challenge.
 
-The original notebooks are kept unchanged. Each project also includes a cleaner notebook copy for quick reading and a `src/` package for reusable code.
+My original notebooks are kept unchanged. Each project also includes an idealistic notebook copy for quick reading and a `src/` package for reusable code.
 
 ## Setup
 
@@ -20,7 +20,7 @@ python -m spacy download es_core_news_sm
 
 ## Data
 
-Datasets are intentionally ignored by git. Put the files under each project's `data/` directory as described in that project's `data/README.md`.
+Put the files under each project's `data/` directory as described in that project's `data/README.md`.
 
 ## Projects
 
