@@ -7,5 +7,5 @@ Place the ToxHabits BRAT annotation files under:
 03_toxhabits_ner_bilstm/data/ToxNER/ToxHabits(ToxNER)_Test_ANNFiles/test_good
 ```
 
-This dataset was downloaded manually, so it is not included in the repository. You can check the data by this link: https://zenodo.org/records/17566029
+You can check the data by this link: https://zenodo.org/records/17566029
 
