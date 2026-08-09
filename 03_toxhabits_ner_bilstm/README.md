@@ -13,7 +13,7 @@ The refactored pipeline covers:
 
 ## Data
 
-This dataset was downloaded manually. Expected local layout:
+This dataset was downloaded from https://zenodo.org/records/17566029. Expected local layout:
 
 ```text
 data/ToxNER/ToxHabits(ToxNER)_Train_ANNFiles/train_annotations
