@@ -1,6 +1,6 @@
 # Scientific NLP From Scratch
 
-This repository contains three compact NLP projects built from notebooks and refactored into reusable Python modules:
+This repository contains three compact NLP, non-Transformer projects built from notebooks and refactored into reusable Python modules:
 
 - `01_pubmed_sentence_classification`: PubMed RCT abstract sentence classification from Kaggle PubMed 200k RCT.
 - `02_citation_intent_classification`: SciCite citation intent classification from Kaggle Scicite (Classifying Citation Intents In Papers).
